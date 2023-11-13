@@ -5,12 +5,12 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #f0f2f5 ;
+    background-color: #105a77 ;
 }
 .container{
     width: 100%;
     min-height: 700px;
-    background-color: #f0f2f5 ;
+    background-color: #105a77 ;
     padding-top: 10px;
 }
 .container .form-box{
@@ -25,8 +25,8 @@ body{
     margin: 10px auto;
     /* border: 2px solid green; */
     padding: 20px;
-    background-color: #ffff;
-    border-radius: 10px;
+    background-color: #63c4eb ;
+    border-radius: 15px;
 }
 .container .form-box .form h3{
     color: #2d77f2;
